@@ -1,6 +1,7 @@
 # Medixcorp-UI-Test
 This project is a test project designed to showcase skills in HTML, CSS, and JavaScript, specifically focusing on creating a responsive web page for a medical company called MedixCorp.
 The purpose of this project is to evaluate abilities in designing and developing a professional-looking website with interactive features.
+The web page has been built based on provided sketches to demonstrate my ability to translate design concepts into a functional and visually appealing website.
 
 # Live link
 https://medixcorpr.onrender.com/
