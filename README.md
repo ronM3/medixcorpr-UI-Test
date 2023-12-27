@@ -3,7 +3,7 @@ This project is a test project designed to showcase skills in HTML, CSS, and Jav
 The purpose of this project is to evaluate abilities in designing and developing a professional-looking website with interactive features.
 The web page has been built based on provided sketches to demonstrate my ability to translate design concepts into a functional and visually appealing website.
 
-# Progress Demo
+# live preview
  ![GIF 1](https://github.com/ronM3/medixcorpr-UI-Test/blob/main/medixcorp-ui-test.gif)   ![GIF 2](https://github.com/ronM3/medixcorpr-UI-Test/blob/main/medixcorp-ui-test-mobile.gif)
  
 
